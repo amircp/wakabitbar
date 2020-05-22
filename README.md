@@ -23,7 +23,7 @@ voila! your wakatime plugin is already setup and will look like this on your bar
 
 # ![Wakatime Bitbar](https://amircanto.com/assets/wakatime/bitbar.png)
 
-## where do i get my Wakatime API Key?
+##Where do i get my Wakatime API Key?
 
 First you need a WakaTime Account then go to the following link:
 
