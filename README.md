@@ -2,7 +2,7 @@
 
 # ![Wakatime Bitbar](https://amircanto.com/assets/wakatime/bitbar.png)
 
-This repo contains the Wakatime plugin for bitbar, developed by [Amir Canto - @amircp](https://twitter.com/amircp)). 
+This repo contains the Wakatime plugin for bitbar, developed by [Amir Canto - @amircp](https://twitter.com/amircp). 
 It allows you to see your Coding time activity for the current day in your Mac OS X Menu Bar
 
 ## What is Bitbar?
