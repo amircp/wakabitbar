@@ -2,7 +2,7 @@
 
 /*
  * <bitbar.title>WakatimeBar</bitbar.title>
- * <bitbar.version>v1.0.0</bitbar.version>
+ * <bitbar.version>v1.0.1</bitbar.version>
  * <bitbar.author>Amir Canto</bitbar.author>
  * <bitbar.author.github>amircp</bitbar.author.github>
  * <bitbar.image>https://imgur.com/a/gFijsck</bitbar.image>
