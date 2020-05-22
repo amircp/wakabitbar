@@ -10,7 +10,7 @@ It allows you to see your Coding time activity for the current day in your Mac O
  ![BitBar](https://github.com/matryer/bitbar/raw/master/Docs/bitbar-32.png) BitBar 
 (by [Mat Ryer - @matryer](https://twitter.com/matryer)) lets you put the output from any script/program in your Mac OS X Menu Bar.
 
-## Instalation
+## Installation
 
 Just download from the official page of [Bitbar](https://getbitbar.com) the bitbar app and move it into Applications folder in your mac.
 
